@@ -676,3 +676,93 @@ CWD: D:\Desktop\Learning Platfrom
 Init LLMService. Provider: groq
 GROQ_KEY: Found
 CWD: D:\Desktop\Learning Platfrom
+Init LLMService. Provider: groq
+GROQ_KEY: Missing
+CWD: C:\Users\basav\OneDrive\Documents\GitHub\firstTrial\Learning Platfrom
+Init LLMService. Provider: groq
+GROQ_KEY: Missing
+CWD: C:\Users\basav\OneDrive\Documents\GitHub\firstTrial\Learning Platfrom
+Init LLMService. Provider: groq
+GROQ_KEY: Missing
+CWD: C:\Users\basav\OneDrive\Documents\GitHub\firstTrial\Learning Platfrom
+Init LLMService. Provider: groq
+GROQ_KEY: Missing
+CWD: C:\Users\basav\OneDrive\Documents\GitHub\firstTrial\Learning Platfrom
+Init LLMService. Provider: groq
+GROQ_KEY: Missing
+CWD: C:\Users\basav\OneDrive\Documents\GitHub\firstTrial\Learning Platfrom
+Init LLMService. Provider: groq
+GROQ_KEY: Missing
+CWD: C:\Users\basav\OneDrive\Documents\GitHub\firstTrial\Learning Platfrom
+Init LLMService. Provider: groq
+GROQ_KEY: Missing
+CWD: C:\Users\basav\OneDrive\Documents\GitHub\firstTrial\Learning Platfrom
+Init LLMService. Provider: groq
+GROQ_KEY: Missing
+CWD: C:\Users\basav\OneDrive\Documents\GitHub\firstTrial\Learning Platfrom
+Init LLMService. Provider: groq
+GROQ_KEY: Missing
+CWD: C:\Users\basav\OneDrive\Documents\GitHub\firstTrial\Learning Platfrom
+Init LLMService. Provider: groq
+GROQ_KEY: Missing
+CWD: C:\Users\basav\OneDrive\Documents\GitHub\firstTrial\Learning Platfrom
+Init LLMService. Provider: groq
+GROQ_KEY: Missing
+CWD: C:\Users\basav\OneDrive\Documents\GitHub\firstTrial\Learning Platfrom
+Init LLMService. Provider: groq
+GROQ_KEY: Missing
+CWD: C:\Users\basav\OneDrive\Documents\GitHub\firstTrial\Learning Platfrom
+Init LLMService. Provider: groq
+GROQ_KEY: Missing
+CWD: C:\Users\basav\OneDrive\Documents\GitHub\firstTrial\Learning Platfrom
+Init LLMService. Provider: groq
+GROQ_KEY: Missing
+CWD: C:\Users\basav\OneDrive\Documents\GitHub\firstTrial\Learning Platfrom
+Init LLMService. Provider: groq
+GROQ_KEY: Missing
+CWD: C:\Users\basav\OneDrive\Documents\GitHub\firstTrial\Learning Platfrom
+Init LLMService. Provider: groq
+GROQ_KEY: Missing
+CWD: C:\Users\basav\OneDrive\Documents\GitHub\firstTrial\Learning Platfrom
+Init LLMService. Provider: groq
+GROQ_KEY: Missing
+CWD: C:\Users\basav\OneDrive\Documents\GitHub\firstTrial\Learning Platfrom
+Init LLMService. Provider: groq
+GROQ_KEY: Missing
+CWD: C:\Users\basav\OneDrive\Documents\GitHub\firstTrial\Learning Platfrom
+Init LLMService. Provider: groq
+GROQ_KEY: Missing
+CWD: C:\Users\basav\OneDrive\Documents\GitHub\firstTrial\Learning Platfrom
+Init LLMService. Provider: groq
+GROQ_KEY: Missing
+CWD: C:\Users\basav\OneDrive\Documents\GitHub\firstTrial\Learning Platfrom
+Init LLMService. Provider: groq
+GROQ_KEY: Missing
+CWD: C:\Users\basav\OneDrive\Documents\GitHub\firstTrial\Learning Platfrom
+Init LLMService. Provider: groq
+GROQ_KEY: Found
+CWD: C:\Users\basav\OneDrive\Documents\GitHub\firstTrial\Learning Platfrom
+Init LLMService. Provider: groq
+GROQ_KEY: Found
+CWD: C:\Users\basav\OneDrive\Documents\GitHub\firstTrial\Learning Platfrom
+Init LLMService. Provider: groq
+GROQ_KEY: Found
+CWD: C:\Users\basav\OneDrive\Documents\GitHub\firstTrial\Learning Platfrom
+Init LLMService. Provider: groq
+GROQ_KEY: Found
+CWD: C:\Users\basav\OneDrive\Documents\GitHub\firstTrial\Learning Platfrom
+Init LLMService. Provider: groq
+GROQ_KEY: Found
+CWD: C:\Users\basav\OneDrive\Documents\GitHub\firstTrial\Learning Platfrom
+Init LLMService. Provider: groq
+GROQ_KEY: Found
+CWD: C:\Users\basav\OneDrive\Documents\GitHub\firstTrial\Learning Platfrom
+Init LLMService. Provider: groq
+GROQ_KEY: Found
+CWD: C:\Users\basav\OneDrive\Documents\GitHub\firstTrial\Learning Platfrom
+Init LLMService. Provider: groq
+GROQ_KEY: Found
+CWD: C:\Users\basav\OneDrive\Documents\GitHub\firstTrial\Learning Platfrom
+Init LLMService. Provider: groq
+GROQ_KEY: Found
+CWD: C:\Users\basav\OneDrive\Documents\GitHub\firstTrial\Learning Platfrom

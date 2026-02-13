@@ -1311,3 +1311,128 @@ DEBUG: Roadmap response: {
       }
    ]
 }
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: None
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: None
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: None
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: None
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: None
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: None
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: None
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: None
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: None
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: None
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: None
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: None
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: None
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: None
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: None
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: None
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: None
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: None
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: None
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: None
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: None
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: None
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: None
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: None
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: None
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: None
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: {
+  "topic": "Quantum Physics",
+   "grade": "Grade 8",
+   "chapters": [
+      {
+         "chapter_number": 1,
+         "title": "Introduction to Quantum Physics",
+         "description": "Basic understanding of quantum physics, history, and importance"
+      },
+      {
+         "chapter_number": 2,
+         "title": "Wave-Particle Duality",
+         "description": "Exploring the wave-particle duality of light and matter"
+      },
+      {
+         "chapter_number": 3,
+         "title": "The Schrodinger Equation",
+         "description": "Introduction to the Schrodinger equation and solving it"
+      },
+      {
+         "chapter_number": 4,
+         "title": "Quantum Probability",
+         "description": "Introducing probability in quantum physics and applying it"
+      },
+      {
+         "chapter_number": 5,
+         "title": "Quantum Tunneling",
+         "description": "Understanding quantum tunneling and its applications"
+      },
+      {
+         "chapter_number": 6,
+         "title": "Quantum Measurement and Uncertainty",
+         "description": "Understanding the Heisenberg Uncertainty Principle and quantum measurement"
+      }
+   ]
+}
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: {
+  "topic": "Quantum Physics",
+   "chapters": [
+      {
+         "chapter_number": 1,
+         "title": "Introduction to Quantum Physics",
+         "description": "Understanding the basics of quantum physics, waves, and particles."
+      },
+      {
+         "chapter_number": 2,
+         "title": "The Nature of Quantum World",
+         "description": "Understanding probability and uncertainty, wave-particle duality, and the Heisenberg Uncertainty Principle."
+      },
+      {
+         "chapter_number": 3,
+         "title": "Atomic Structure and Energy Levels",
+         "description": "Learning about atomic structure, energy levels, and electron configuration."
+      },
+      {
+         "chapter_number": 4,
+         "title": "Quantum Leap - Understanding Schrodinger's Equation",
+         "description": "Understanding the basic math of quantum mechanics and Schrodinger's Equation in a simplified way."
+      },
+      {
+         "chapter_number": 5,
+         "title": "Quantum Tunneling and Particle Behavior",
+         "description": "Learning about quantum tunneling and how particles behave under different conditions."
+      },
+      {
+         "chapter_number": 6,
+         "title": "Experiments in Quantum Physics",
+         "description": "Understanding experiments like the Double Slit Experiment, Quantum Eraser Experiment, and others."
+      }
+   ]
+}
