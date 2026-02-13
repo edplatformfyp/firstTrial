@@ -1,0 +1,17 @@
+fastapi==0.109.2
+uvicorn==0.27.1
+sqlalchemy==2.0.27
+pydantic==2.6.1
+pydantic-settings
+python-dotenv
+groq
+google-generativeai
+moviepy
+gTTS
+opencv-python-headless
+mediapipe
+requests
+streamlit
+watchdog
+edge-tts
+nest_asyncio

@@ -1,0 +1,134 @@
+Error in video generation: string indices must be integers, not 'str'
+Traceback (most recent call last):
+  File "D:\Desktop\Learning Platfrom\server\agents\media_agent\media.py", line 37, in generate_video
+    text = segment['text']
+           ~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+Error in video generation: string indices must be integers, not 'str'
+Traceback (most recent call last):
+  File "D:\Desktop\Learning Platfrom\server\agents\media_agent\media.py", line 37, in generate_video
+    text = segment['text']
+           ~~~~~~~^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+Error in video generation: string indices must be integers, not 'str'
+Traceback (most recent call last):
+  File "D:\Desktop\Learning Platfrom\server\agents\media_agent\media.py", line 37, in generate_video
+    if isinstance(segment, str):
+           ^^^^^^^^^^^^^^^
+TypeError: string indices must be integers, not 'str'
+
+Error in video generation: No audio was received. Please verify that your parameters are correct.
+Traceback (most recent call last):
+  File "D:\Desktop\Learning Platfrom\server\agents\media_agent\media.py", line 146, in generate_video
+    await communicate.save(audio_path)
+  File "C:\Users\basav\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\edge_tts\communicate.py", line 590, in save
+    async for message in self.stream():
+  File "C:\Users\basav\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\edge_tts\communicate.py", line 566, in stream
+    async for message in self.__stream():
+  File "C:\Users\basav\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\edge_tts\communicate.py", line 541, in __stream
+    raise NoAudioReceived(
+edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that your parameters are correct.
+
+Error in video generation: No audio was received. Please verify that your parameters are correct.
+Traceback (most recent call last):
+  File "D:\Desktop\Learning Platfrom\server\agents\media_agent\media.py", line 146, in generate_video
+    audio_clip = AudioFileClip(audio_path)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\basav\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\edge_tts\communicate.py", line 590, in save
+    async for message in self.stream():
+  File "C:\Users\basav\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\edge_tts\communicate.py", line 566, in stream
+    async for message in self.__stream():
+  File "C:\Users\basav\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\edge_tts\communicate.py", line 541, in __stream
+    raise NoAudioReceived(
+edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that your parameters are correct.
+
+Error in video generation: No audio was received. Please verify that your parameters are correct.
+Traceback (most recent call last):
+  File "D:\Desktop\Learning Platfrom\server\agents\media_agent\media.py", line 146, in generate_video
+    audio_clip = AudioFileClip(audio_path)
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\basav\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\edge_tts\communicate.py", line 590, in save
+    async for message in self.stream():
+  File "C:\Users\basav\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\edge_tts\communicate.py", line 566, in stream
+    async for message in self.__stream():
+  File "C:\Users\basav\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\edge_tts\communicate.py", line 541, in __stream
+    raise NoAudioReceived(
+edge_tts.exceptions.NoAudioReceived: No audio was received. Please verify that your parameters are correct.
+
+Error in video generation: index -79890 is out of bounds for axis 0 with size 20110
+Traceback (most recent call last):
+  File "C:\Users\basav\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\moviepy\audio\io\readers.py", line 193, in get_frame
+    result[in_time] = self.buffer[indices]
+                      ~~~~~~~~~~~^^^^^^^^^
+IndexError: index -79890 is out of bounds for axis 0 with size 20110
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Desktop\Learning Platfrom\server\agents\media_agent\media.py", line 178, in generate_video
+    os.remove(os.path.join(self.output_dir, f"frame_{idx}.png"))
+  File "<decorator-gen-55>", line 2, in write_videofile
+  File "C:\Users\basav\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\moviepy\decorators.py", line 54, in requires_duration
+    return f(clip, *a, **k)
+           ^^^^^^^^^^^^^^^^
+  File "<decorator-gen-54>", line 2, in write_videofile
+  File "C:\Users\basav\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\moviepy\decorators.py", line 135, in use_clip_fps_by_default
+    return f(clip, *new_a, **new_kw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<decorator-gen-53>", line 2, in write_videofile
+  File "C:\Users\basav\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\moviepy\decorators.py", line 22, in convert_masks_to_RGB
+    return f(clip, *a, **k)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\basav\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\moviepy\video\VideoClip.py", line 293, in write_videofile
+    self.audio.write_audiofile(audiofile, audio_fps,
+  File "<decorator-gen-45>", line 2, in write_audiofile
+  File "C:\Users\basav\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\moviepy\decorators.py", line 54, in requires_duration
+    return f(clip, *a, **k)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\basav\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\moviepy\audio\AudioClip.py", line 206, in write_audiofile
+    return ffmpeg_audiowrite(self, filename, fps, nbytes, buffersize,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<decorator-gen-9>", line 2, in ffmpeg_audiowrite
+  File "C:\Users\basav\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\moviepy\decorators.py", line 54, in requires_duration
+    return f(clip, *a, **k)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\basav\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\moviepy\audio\io\ffmpeg_audiowriter.py", line 166, in ffmpeg_audiowrite
+    for chunk in clip.iter_chunks(chunksize=buffersize,
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\basav\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\moviepy\audio\AudioClip.py", line 85, in iter_chunks
+    yield self.to_soundarray(tt, nbytes=nbytes, quantize=quantize,
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<decorator-gen-44>", line 2, in to_soundarray
+  File "C:\Users\basav\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\moviepy\decorators.py", line 54, in requires_duration
+    return f(clip, *a, **k)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\basav\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\moviepy\audio\AudioClip.py", line 127, in to_soundarray
+    snd_array = self.get_frame(tt)
+                ^^^^^^^^^^^^^^^^^^
+  File "<decorator-gen-11>", line 2, in get_frame
+  File "C:\Users\basav\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\moviepy\decorators.py", line 89, in wrapper
+    return f(*new_a, **new_kw)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\basav\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\moviepy\Clip.py", line 93, in get_frame
+    return self.make_frame(t)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\basav\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\moviepy\audio\AudioClip.py", line 296, in make_frame
+    sounds = [c.get_frame(t - c.start)*np.array([part]).T
+              ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<decorator-gen-11>", line 2, in get_frame
+  File "C:\Users\basav\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\moviepy\decorators.py", line 89, in wrapper
+    return f(*new_a, **new_kw)
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\basav\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\moviepy\Clip.py", line 93, in get_frame
+    return self.make_frame(t)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\basav\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\moviepy\audio\io\AudioFileClip.py", line 77, in <lambda>
+    self.make_frame = lambda t: self.reader.get_frame(t)
+                                ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\basav\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\moviepy\audio\io\readers.py", line 205, in get_frame
+    result[in_time] = self.buffer[indices]
+                      ~~~~~~~~~~~^^^^^^^^^
+IndexError: index -79890 is out of bounds for axis 0 with size 20110
+
