@@ -1,0 +1,1313 @@
+DEBUG: Generating roadmap for Python Programming
+DEBUG: Roadmap response: {
+  "topic": "Python Programming for Beginners",
+   "chapters": [
+      {
+         "chapter_number": 1,
+         "title": "Introduction to Python",
+         "description": "Understanding Python basics, syntax, and installation."
+      },
+      {
+         "chapter_number": 2,
+         "title": "Variables, Data Types, and Operators",
+         "description": "Learning about Python variables, data types, and comparison operators."
+      },
+      {
+         "chapter_number": 3,
+         "title": "Control Structures",
+         "description": "Understanding if-else statements, for loops, while loops, and break/continue statements."
+      },
+      {
+         "chapter_number": 4,
+         "title": "Functions",
+         "description": "Learning how to define and use functions in Python."
+      },
+      {
+         "chapter_number": 5,
+         "title": "Lists and Tuples",
+         "description": "Working with lists and tuples, including indexing, slicing, and concatenation."
+      },
+      {
+         "chapter_number": 6,
+         "title": "Dictionaries and Sets",
+         "description": "Understanding how to work with dictionaries and sets."
+      },
+      {
+         "chapter_number": 7,
+         "title": "File Input/Output and Persistence",
+         "description": "Learning how to read and write files, as well as how to serialize and deserialize data."
+      },
+      {
+         "chapter_number": 8,
+         "title": "Modules and Packages",
+         "description": "Understanding how to use modules and packages to extend Python's functionality."
+      },
+      {
+         "chapter_number": 9,
+         "title": "Object-Oriented Programming",
+         "description": "Learning the basics of object-oriented programming in Python."
+      },
+      {
+         "chapter_number": 10,
+         "title": "Error Handling and Debugging",
+         "description": "Understanding how to handle and debug errors in Python."
+      },
+      {
+         "chapter_number": 11,
+         "title": "Practice and Project",
+         "description": "Applying learned concepts to real-world projects and practicing coding skills."
+      },
+      {
+         "chapter_number": 12,
+         "title": "Final Project and Assessment",
+         "description": "Completing a final project and receiving feedback on progress."
+      }
+   ]
+}
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: {
+  "topic": "Quantum Physics",
+   "chapters": [
+      {
+         "chapter_number": 1,
+         "title": "Introduction to Quantum Physics",
+         "description": "Understanding the basics of quantum physics, waves and particles, and the principles of quantum mechanics."
+      },
+      {
+         "chapter_number": 2,
+         "title": "Wave-Particle Duality",
+         "description": "Exploring the phenomenon of wave-particle duality, de Broglie's hypothesis, and the Davisson-Germer experiment."
+      },
+      {
+         "chapter_number": 3,
+         "title": "Schrödinger's Equation",
+         "description": "Introducing the Schrödinger equation, wave functions, and the concept of probability amplitude."
+      },
+      {
+         "chapter_number": 4,
+         "title": "Uncertainty Principle",
+         "description": "Understanding Heisenberg's uncertainty principle, the limitations of measurement, and the concept of wave-particle superposition."
+      },
+      {
+         "chapter_number": 5,
+         "title": "Quantum Tunneling and Superposition",
+         "description": "Exploring the phenomenon of quantum tunneling, wave-particle interference, and the concept of superposition."
+      },
+      {
+         "chapter_number": 6,
+         "title": "Quantum Entanglement",
+         "description": "Introducing the concept of entanglement, Einstein's theory of local hidden variables, and the implications of entanglement on reality."
+      },
+      {
+         "chapter_number": 7,
+         "title": "Applications of Quantum Physics",
+         "description": "Examining the practical applications of quantum physics, including semiconductors, transistors, and lasers."
+      }
+   ]
+}
+DEBUG: Generating roadmap for Python
+DEBUG: Roadmap response: {
+  "topic": "Python for Grade 8",
+   "chapters": [
+      {
+         "chapter_number": 1,
+         "title": "Introduction to Python",
+         "description": "Basic understanding of Python programming, variables, data types, Operators, and Basic Input/Output Functions"
+      },
+      {
+         "chapter_number": 2,
+         "title": "Variables, Data Types and Operators",
+         "description": "Understanding Variables, Data Types (String, Integer, Float, Boolean), and Basic Operators (Arithmetic, Comparison, Logical)"
+      },
+      {
+         "chapter_number": 3,
+         "title": "Control Structures",
+         "description": "Introduction to Conditional Statements (if-else), Loops (for, while), and the Break and Continuation Statements"
+      },
+      {
+         "chapter_number": 4,
+         "title": "Functions and Modules",
+         "description": "Understanding the concept of functions, defining and calling functions, and working with built-in modules"
+      },
+      {
+         "chapter_number": 5,
+         "title": "Strings and Lists",
+         "description": "Understanding Strings (Indexing, Slicing), and Lists (Creating, Indexing, Slicing, Sorting)"
+      },
+      {
+         "chapter_number": 6,
+         "title": "File Handling and Output",
+         "description": "Reading and writing files, working with text and CSV files, and the concept of Output"
+      },
+      {
+         "chapter_number": 7,
+         "title": "Game Development with Python",
+         "description": "Introduction to basic game development with Python using Pygame library"
+      },
+      {
+         "chapter_number": 8,
+         "title": "Project and Final Assessment",
+         "description": "Applying learned concepts to create a small project and assessment of understanding"
+      }
+   ]
+}
+DEBUG: Generating roadmap for Python Programming
+DEBUG: Roadmap response: {
+  "topic": "Python Programming",
+   "chapters": [
+      {
+         "chapter_number": 1,
+         "title": "Introduction to Python",
+         "description": "Overview of Python basics, installing Python, and writing first Python programs."
+      },
+      {
+         "chapter_number": 2,
+         "title": "Variables and Data Types",
+         "description": "Understanding variables, data types, and operators in Python. Creating, updating, and deleting variables."
+      },
+      {
+         "chapter_number": 3,
+         "title": "Control Structures",
+         "description": "Using if-else statements, for loops, while loops, and break/continue statements for flow control in Python."
+      },
+      {
+         "chapter_number": 4,
+         "title": "Functions in Python",
+         "description": "Defining and using functions to organize code, returning values, and passing arguments."
+      },
+      {
+         "chapter_number": 5,
+         "title": "Lists and Tuples in Python",
+         "description": "Understanding lists, tuples, and indexing/slicing. Inserting, updating, and deleting list elements."
+      },
+      {
+         "chapter_number": 6,
+         "title": "Dictionary in Python",
+         "description": "Working with dictionaries, accessing values, inserting, and updating keys-value pairs."
+      },
+      {
+         "chapter_number": 7,
+         "title": "File Input/Output in Python",
+         "description": "Writing text files, reading text files, and using open() function to manage file input/output operations."
+      },
+      {
+         "chapter_number": 8,
+         "title": "Modules and Packages in Python",
+         "description": "Importing modules, creating custom modules, and using packages to organize code and reuse functionality."
+      },
+      {
+         "chapter_number": 9,
+         "title": "Error Handling in Python",
+         "description": "Managing exceptions, using try-except blocks, and creating custom exceptions."
+      },
+      {
+         "chapter_number": 10,
+         "title": "Python Project Development",
+         "description": "Putting concepts into practice by developing a Python project, discussing common challenges, and troubleshooting tips."
+      }
+   ]
+}
+DEBUG: Generating roadmap for Python
+DEBUG: Roadmap response: {
+  "topic": "Python Programming for Grade 8",
+   "chapters": [
+      {
+         "chapter_number": 1,
+         "title": "Introduction to Python",
+         "description": "Basic syntax, variables, data types, and operators."
+      },
+      {
+         "chapter_number": 2,
+         "title": "Control Structures",
+         "description": "If-else statements, for loops, while loops, and conditional statements."
+      },
+      {
+         "chapter_number": 3,
+         "title": "Functions and Modules",
+         "description": "Defining and calling functions, importing modules, and working with arguments."
+      },
+      {
+         "chapter_number": 4,
+         "title": "Lists and Tuples",
+         "description": "Creating, indexing, and modifying lists and tuples."
+      },
+      {
+         "chapter_number": 5,
+         "title": "Dictionaries and Sets",
+         "description": "Working with dictionaries and sets, including basic operations and common use cases."
+      },
+      {
+         "chapter_number": 6,
+         "title": "File Input/Output and Error Handling",
+         "description": "Reading and writing files, handling errors and exceptions, and working with file paths."
+      },
+      {
+         "chapter_number": 7,
+         "title": "Arrays and Matrix Operations",
+         "description": "Working with arrays and matrices in Python, including numerical computations and visualization."
+      },
+      {
+         "chapter_number": 8,
+         "title": "Real-World Applications",
+         "description": "Using Python to solve real-world problems, including games, simulations, and data analysis."
+      }
+   ]
+}
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: {
+  "topic": "Quantum Physics",
+   "chapters": [
+      {
+         "chapter_number": 1,
+         "title": "Introduction to Quantum Physics",
+         "description": "Understanding the basics of quantum physics, its history, and significance."
+      },
+      {
+         "chapter_number": 2,
+         "title": "Waves and Particles",
+         "description": "Exploring the wave-particle duality of matter and light, understanding the concept of wave-particle duality."
+      },
+      {
+         "chapter_number": 3,
+         "title": "Quantum Uncertainty",
+         "description": "Understanding the Heisenberg Uncertainty Principle and its implications on measurement and observation."
+      },
+      {
+         "chapter_number": 4,
+         "title": "Schrödinger's Equation",
+         "description": "Understanding the basics of Schrödinger's equation, its significance in quantum mechanics, and its application."
+      },
+      {
+         "chapter_number": 5,
+         "title": "Atomic Structure",
+         "description": "Understanding the atomic structure, electron configuration, and the role of quantum physics in atomic behavior."
+      },
+      {
+         "chapter_number": 6,
+         "title": "Quantum Tunneling",
+         "description": "Discovering the concept of quantum tunneling, understanding its applications, and the significance of quantum tunneling in quantum physics."
+      }
+   ]
+}
+DEBUG: Generating roadmap for Python
+DEBUG: Roadmap response: {
+  "topic": "Python Programming",
+   "chapters": [
+      {
+         "chapter_number": 1,
+         "title": "Introduction to Python",
+         "description": "Understanding the basics of Python programming, data types, variables, operators, and syntax"
+      },
+      {
+         "chapter_number": 2,
+         "title": "Python Basics: Loops and Conditional Statements",
+         "description": "Working with loops (for and while) and conditional statements (if-else) to write efficient Python code"
+      },
+      {
+         "chapter_number": 3,
+         "title": "Functions and Modules in Python",
+         "description": "Learning how to define and use functions, and importing modules in Python"
+      },
+      {
+         "chapter_number": 4,
+         "title": "Working with Strings and Lists in Python",
+         "description": "Manipulating strings and lists in Python, including methods for searching, sorting, and modifying data"
+      },
+      {
+         "chapter_number": 5,
+         "title": "Introduction to File Handling and Storage",
+         "description": "Reading and writing data to text files and learning how to store and retrieve data using pickling"
+      },
+      {
+         "chapter_number": 6,
+         "title": "Basic Visualization with Python",
+         "description": "Using libraries like matplotlib and seaborn to create simple visualizations and gain insights from data"
+      },
+      {
+         "chapter_number": 7,
+         "title": "Game Development with Python",
+         "description": "Creating simple games using the Pygame library, introducing concepts like game development and event handling"
+      },
+      {
+         "chapter_number": 8,
+         "title": "Real-World Applications of Python",
+         "description": "Exploring various real-world applications of Python, including web development, scientific computing, and scripting"
+      }
+   ]
+}
+DEBUG: Generating roadmap for Python Programming
+DEBUG: Roadmap response: {
+  "topic": "Python Programming",
+   "chapters": [
+      {
+         "chapter_number": 1,
+         "title": "Getting Started with Python",
+         "description": "Introduction to Python installation, syntax, and basic data types."
+      },
+      {
+         "chapter_number": 2,
+         "title": "Python Variables and Data Types",
+         "description": "Understanding variables, numbers, strings, booleans, lists, and tuples."
+      },
+      {
+         "chapter_number": 3,
+         "title": "Control Structures in Python",
+         "description": "Learning if-else statements, for loops, while loops, and try-except blocks."
+      },
+      {
+         "chapter_number": 4,
+         "title": "Functions in Python",
+         "description": "Understanding functions, arguments, return values, and lambda functions."
+      },
+      {
+         "chapter_number": 5,
+         "title": "Lists and Tuples in Python",
+         "description": "Working with lists, tuples, indexing, slicing, and common operations."
+      },
+      {
+         "chapter_number": 6,
+         "title": "Python Modules and Packages",
+         "description": "Introduction to modules, packages, and the Python Standard Library."
+      },
+      {
+         "chapter_number": 7,
+         "title": "Working with Files in Python",
+         "description": "Reading and writing files, handling exceptions, and working with CSV files."
+      },
+      {
+         "chapter_number": 8,
+         "title": "Object-Oriented Programming in Python",
+         "description": "Learning classes, objects, inheritance, and polymorphism."
+      },
+      {
+         "chapter_number": 9,
+         "title": "Error Handling in Python",
+         "description": "Understanding exceptions, error types, and creating custom exceptions."
+      },
+      {
+         "chapter_number": 10,
+         "title": "Advanced Topics in Python",
+         "description": "Learning decorators, generators, and asynchronous programming."
+      }
+   ]
+}
+DEBUG: Generating roadmap for Python Programming
+DEBUG: Roadmap response: {
+  "topic": "Python Programming",
+   "chapters": [
+      {
+        "chapter_number": 1,
+        "title": "Introduction to Python",
+        "description": "Learn the basics of Python, installation, syntax, and data types."
+      },
+      {
+        "chapter_number": 2,
+        "title": "Control Structures",
+        "description": "Understand if-else statements, for loops, and while loops."
+      },
+      {
+        "chapter_number": 3,
+        "title": "Functions",
+        "description": "Learn to create and use functions in Python."
+      },
+      {
+        "chapter_number": 4,
+        "title": "Data Structures",
+        "description": "Discover lists, tuples, dictionaries, and sets."
+      },
+      {
+        "chapter_number": 5,
+        "title": "Object-Oriented Programming (OOP) Basics",
+        "description": "Learn classes, objects, inheritance, and polymorphism."
+      },
+      {
+        "chapter_number": 6,
+        "title": "File Input/Output and Exceptions",
+        "description": "Understand how to read and write files, and handle exceptions."
+      },
+      {
+        "chapter_number": 7,
+        "title": "Modules and Packages",
+        "description": "Learn how to use and create modules and packages."
+      },
+      {
+        "chapter_number": 8,
+        "title": "Final Project and Certification",
+        "description": "Apply all learned concepts to build a final project and earn a certification."
+      }
+   ]
+}
+DEBUG: Generating roadmap for Python Programming
+DEBUG: Roadmap response: {
+  "topic": "Python Programming (Beginner Level)",
+   "chapters": [
+      {
+         "chapter_number": 1,
+         "title": "Chapter 1: Introduction to Python",
+         "description": "Understanding the basics of Python, its features, and benefits. Setting up the Python environment."
+      },
+      {
+         "chapter_number": 2,
+         "title": "Chapter 2: Basic Syntax and Data Types",
+         "description": "Understanding variables, data types, operators, and control structures in Python."
+      },
+      {
+         "chapter_number": 3,
+         "title": "Chapter 3: Conditional Statements and Loops",
+         "description": "Understanding if-else statements, for loops, while loops, and break statements in Python."
+      },
+      {
+         "chapter_number": 4,
+         "title": "Chapter 4: Functions and Modules",
+         "description": "Understanding functions, modules, and how to use built-in modules in Python."
+      },
+      {
+         "chapter_number": 5,
+         "title": "Chapter 5: Lists and Tuples",
+         "description": "Understanding lists and tuples in Python, including indexing, slicing, and common operations."
+      },
+      {
+         "chapter_number": 6,
+         "title": "Chapter 6: Dictionaries and Sets",
+         "description": "Understanding dictionaries and sets in Python, including key-value pairs, lookups, and set operations."
+      },
+      {
+         "chapter_number": 7,
+         "title": "Chapter 7: File Input and Output",
+         "description": "Understanding how to read and write files in Python, including CSV and text files."
+      },
+      {
+         "chapter_number": 8,
+         "title": "Chapter 8: Object-Oriented Programming",
+         "description": "Understanding classes, objects, inheritance, and polymorphism in Python."
+      },
+      {
+         "chapter_number": 9,
+         "title": "Chapter 9: Exception Handling and Debugging",
+         "description": "Understanding how to handle exceptions, debug code, and use tools like PDB in Python."
+      },
+      {
+         "chapter_number": 10,
+         "title": "Chapter 10: Practice Projects and Next Steps",
+         "description": "Putting the new skills to practice by building real-world projects and learning about advanced topics in Python."
+      }
+   ]
+}
+DEBUG: Generating roadmap for Python
+DEBUG: Roadmap response: {
+  "topic":"Python Programming for Grade 8",
+   "chapters":[
+      {
+         "chapter_number":1,
+         "title":"Introduction to Python",
+         "description":"Basic introduction to Python, installing Python, basic syntax and data types"
+      },
+      {
+         "chapter_number":2,
+         "title":"Variables, Data Types and Operators",
+         "description":"Using variables in Python, basic data types(int, float, string), operators for comparisons and arithmetic"
+      },
+      {
+         "chapter_number":3,
+         "title":"Control Structures",
+         "description":"Using if-else statements, for loops, while loops for decision-making and repetition"
+      },
+      {
+         "chapter_number":4,
+         "title":"Functions",
+         "description":"Defining and using functions, function parameters, function return types"
+      },
+      {
+         "chapter_number":5,
+         "title":"Basic String Manipulation",
+         "description":"Using string methods, string concatenation, string slicing"
+      },
+      {
+         "chapter_number":6,
+         "title":"Lists and Tuples",
+         "description":"Using lists and tuples, indexing and slicing, list methods"
+      },
+      {
+         "chapter_number":7,
+         "title":"Dictionary Data Structure",
+         "description":"Using dictionaries for key-value pairs, basic operations"
+      },
+      {
+         "chapter_number":8,
+         "title":"Error Handling",
+         "description":"Using try-except blocks for error handling, basic exceptions"
+      },
+      {
+         "chapter_number":9,
+         "title":"File Input and Output",
+         "description":"Reading and writing text and binary files, basic file operations"
+      },
+      {
+         "chapter_number":10,
+         "title":"Final Project in Python",
+         "description":"Applying all concepts learned to a real-world project"
+      }
+   ]
+}
+DEBUG: Generating roadmap for Python
+DEBUG: Roadmap response: {
+  "topic": "Python",
+   "chapters": [
+      {
+         "chapter_number": 1,
+         "title": "Getting Started with Python",
+         "description": "Learn the basics of Python programming, including variables, data types, and basic syntax."
+      },
+      {
+         "chapter_number": 2,
+         "title": "Control Structures in Python",
+         "description": "Understand how to use conditional statements, loops, and functions to control program flow."
+      },
+      {
+         "chapter_number": 3,
+         "title": "Basic Data Types in Python",
+         "description": "Learn about numbers, strings, and lists in Python and how to perform operations with them."
+      },
+      {
+         "chapter_number": 4,
+         "title": "Working with Data in Python",
+         "description": "Learn how to work with dictionaries, sets, and tuples, as well as file input and output."
+      },
+      {
+         "chapter_number": 5,
+         "title": "Functions and Modules in Python",
+         "description": "Understand how to define and use functions, as well as import and use external modules."
+      },
+      {
+         "chapter_number": 6,
+         "title": "Error Handling in Python",
+         "description": "Learn how to write robust code that handles potential errors and exceptions."
+      },
+      {
+         "chapter_number": 7,
+         "title": "Python for Problem Solving",
+         "description": "Apply Python programming skills to solve real-world problems and puzzles."
+      },
+      {
+         "chapter_number": 8,
+         "title": "Python Projects and Final Showcase",
+         "description": "Develop and showcase a personal project that demonstrates mastery of Python programming skills."
+      }
+   ]
+}
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: {
+  "topic": "Quantum Physics",
+   "chapters": [
+      {
+         "chapter_number": 1,
+         "title": "Introduction to Quantum Physics",
+         "description": "Understanding the Basics of Quantum Physics, its history, and key concepts."
+      },
+      {
+         "chapter_number": 2,
+         "title": "Wave-Particle Duality",
+         "description": "Exploring the duality between wave and particle nature of matter and radiation."
+      },
+      {
+         "chapter_number": 3,
+         "title": "Uncertainty Principle and Probability",
+         "description": "Understanding the concept of uncertainty principle and introduction to wave functions."
+      },
+      {
+         "chapter_number": 4,
+         "title": "Quantum Numbers and Atomic Structure",
+         "description": "Exploring the concept of quantum numbers and their application in the atomic structure."
+      },
+      {
+         "chapter_number": 5,
+         "title": "Quantization and Energy Levels",
+         "description": "Understanding the concept of quantization and its application in energy levels of electrons."
+      },
+      {
+         "chapter_number": 6,
+         "title": "Superposition and Entanglement",
+         "description": "Introduction to superposition and entanglement, understanding the concept of quantum entanglement and its application."
+      },
+      {
+         "chapter_number": 7,
+         "title": "Quantum Mechanics and Applications",
+         "description": "Exploring real-world applications of quantum physics, such as superconductivity, LASERs, and transistors."
+      },
+      {
+         "chapter_number": 8,
+         "title": "Quantum Physics in Daily Life",
+         "description": "Understanding how quantum physics affects our daily life and technology."
+      }
+   ]
+}
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: {
+  "topic": "Quantum Physics",
+   "chapters": [
+      {
+         "chapter_number": 1,
+         "title": "Introduction to Quantum Physics",
+         "description": "Understanding the Basics of Quantum Physics and the Need for it "
+      },
+      {
+         "chapter_number": 2,
+         "title": "Wave-Particle Duality",
+         "description": "Understanding the Behavior of Particles as Waves"
+      },
+      {
+         "chapter_number": 3,
+         "title": "Uncertainty Principle",
+         "description": "The Heisenberg Uncertainty Principle and its Applications"
+      },
+      {
+         "chapter_number": 4,
+         "title": "Quantum Superposition and Entanglement",
+         "description": "Learning the concepts of Superposition and Entanglement in Quantum Physics"
+      },
+      {
+         "chapter_number": 5,
+         "title": "Schrödinger's Equation",
+         "description": "Understanding the Basics of Schrödinger's Equation"
+      },
+      {
+         "chapter_number": 6,
+         "title": "Quantum Spin and Magnetic Fields",
+         "description": "Understanding the Properties of Quantum Spin and its relation with Magnetic Fields"
+      },
+      {
+         "chapter_number": 7,
+         "title": "Quantum Tunneling and Probability",
+         "description": "Learning about Quantum Tunneling and its relation with Probability"
+      },
+      {
+         "chapter_number": 8,
+         "title": "Quantum Forces and Energy",
+         "description": "Understanding the Quantum Forces and its relation with Energy"
+      },
+      {
+         "chapter_number": 9,
+         "title": "Quantum Applications in Real Life",
+         "description": "Real Life Applications of Quantum Physics and its Impact"
+      },
+      {
+         "chapter_number": 10,
+         "title": "Quantum Physics Lab Experiments",
+         "description": "Conducting Experiments to Understand Quantum Physics"
+      }
+   ]
+}
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: {
+  "topic": "Quantum Physics for Grade 8",
+   "chapters": [
+      {
+         "chapter_number": 1,
+         "title": "Introduction to Quantum Physics",
+         "description": "Understanding the basics of quantum physics, difference between macro and micro worlds, and the discovery of Quantum Mechanics"
+      },
+      {
+         "chapter_number": 2,
+         "title": "Wave-Particle Duality",
+         "description": "Exploring how particles can exhibit both wave-like and particle-like properties, with examples and simple experiments"
+      },
+      {
+         "chapter_number": 3,
+         "title": "Quantum Energy and Photons",
+         "description": "Understanding the energy of photons, Planck's constant, and how it relates to quantum energy"
+      },
+      {
+         "chapter_number": 4,
+         "title": "Schrödinger's Equation",
+         "description": "An introduction to Schrödinger's equation and its importance in understanding quantum behavior"
+      },
+      {
+         "chapter_number": 5,
+         "title": "Superposition and Entanglement",
+         "description": "Exploring the concepts of superposition, entanglement, and how they relate to quantum reality"
+      },
+      {
+         "chapter_number": 6,
+         "title": "Quantum Reality and Measurements",
+         "description": "Understanding the measurement problem and how it impacts our understanding of quantum reality"
+      },
+      {
+         "chapter_number": 7,
+         "title": "Applications of Quantum Physics",
+         "description": "Exploring the real-world applications of quantum physics, including computing and technology"
+      }
+   ]
+}
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: {
+  "topic": "Quantum Physics",
+   "chapters": [
+      {
+         "chapter_number": 1,
+         "title": "Introduction to Quantum World",
+         "description": "Exploring the fundamentals of quantum mechanics, particles and waves, and the Schrödinger equation."
+      },
+      {
+         "chapter_number": 2,
+         "title": "Wave-Particle Duality",
+         "description": "Delving into wave-particle duality, probability, and the uncertainty principle."
+      },
+      {
+         "chapter_number": 3,
+         "title": "Quantum Superposition and Entanglement",
+         "description": "Understanding superposition, entanglement, and the implications of quantum connectedness."
+      },
+      {
+         "chapter_number": 4,
+         "title": "Quantum Measurement and Observation",
+         "description": "Learning about the act of measurement, wave function collapse, and the role of observers in quantum mechanics."
+      },
+      {
+         "chapter_number": 5,
+         "title": "Quantum Spin and Angular Momentum",
+         "description": "Analyzing the properties of spin and angular momentum in quantum systems."
+      },
+      {
+         "chapter_number": 6,
+         "title": "Quantum Forces and Interactions",
+         "description": "Exploring the principles behind quantum forces, including weak and strong nuclear forces."
+      },
+      {
+         "chapter_number": 7,
+         "title": "Quantum Computing and Information",
+         "description": "Discovering the potential of quantum computing, quantum cryptography, and quantum information."
+      },
+      {
+         "chapter_number": 8,
+         "title": "Quantum Physics in Daily Life",
+         "description": "Examining the impact of quantum physics on daily life, technology, and the future."
+      }
+   ]
+}
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: {
+  "topic": "Quantum Physics",
+   "chapters": [
+      {
+         "chapter_number": 1,
+         "title": "Introduction to Quantum Physics",
+         "description": "Understanding the basics of quantum physics, its history, and principles"
+      },
+      {
+         "chapter_number": 2,
+         "title": "Wave-Particle Duality",
+         "description": "Understanding the behavior of particles and waves at the quantum level"
+      },
+      {
+         "chapter_number": 3,
+         "title": "Quantization and Uncertainty Principle",
+         "description": "Understanding how energy and position are quantized, and the limits of measurement"
+      },
+      {
+         "chapter_number": 4,
+         "title": "Quantum Tunneling and Scanning Tunneling Microscope",
+         "description": "Understanding how particles can pass through potential barriers and the role of STMs in quantum physics"
+      },
+      {
+         "chapter_number": 5,
+         "title": "Quantum Entanglement and Superposition",
+         "description": "Understanding how particles can become connected and exist in multiple states simultaneously"
+      },
+      {
+         "chapter_number": 6,
+         "title": "Quantum Computing and Quantum Algorithms",
+         "description": "Understanding the basics of quantum computing and its applications"
+      },
+      {
+         "chapter_number": 7,
+         "title": "Experimental Observations and Quantum Physics in Everyday Life",
+         "description": "Understanding how quantum physics is observed and applied in everyday life"
+      },
+      {
+         "chapter_number": 8,
+         "title": "Review and Practice",
+         "description": "Summary of key concepts, practice problems and review of topics covered"
+      }
+   ]
+}
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: {
+  "topic": "Quantum Physics",
+   "chapters": [
+      {
+         "chapter_number": 1,
+         "title": "Introduction to Quantum Physics",
+         "description": "Understanding wave-particle duality and the principles of quantum mechanics"
+      },
+      {
+         "chapter_number": 2,
+         "title": "Atomic Structure and Electron Configuration",
+         "description": "Understanding the structure of atoms and electron configuration, including electrons in shells and orbitals"
+      },
+      {
+         "chapter_number": 3,
+         "title": "Wave Functions and Probability",
+         "description": "Understanding wave functions, probability and the uncertainty principle, including Schrödinger's equation"
+      },
+      {
+         "chapter_number": 4,
+         "title": "Quantum Behavior of Particles",
+         "description": "Understanding superposition, entanglement and tunneling, as well as particles in boxes and harmonic oscillators"
+      },
+      {
+         "chapter_number": 5,
+         "title": "Quantum Phenomena and Experiments",
+         "description": "Exploring real-world examples of quantum mechanics, including photons, atoms and molecules"
+      },
+      {
+         "chapter_number": 6,
+         "title": "Introduction to Quantum Computing",
+         "description": "Understanding the principles and concepts of quantum computing and information theory"
+      }
+   ]
+}
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: {
+  "topic": "Quantum Physics for Grade 8",
+   "chapters": [
+      {
+         "chapter_number": 1,
+         "title": "Introduction to Quantum Physics",
+         "description": "Understanding the Basics of Quantum Physics, Key Concepts and Historical Overview"
+      },
+      {
+         "chapter_number": 2,
+         "title": "Wave-Particle Duality",
+         "description": "Exploring the Dual Nature of Light and Matter, Double-Slit Experiment and Quantum Eraser Experiment"
+      },
+      {
+         "chapter_number": 3,
+         "title": "Quantum Mechanics Fundamentals",
+         "description": "Understanding Wave Functions, Superposition, Entanglement, and Uncertainty Principle"
+      },
+      {
+         "chapter_number": 4,
+         "title": "Quantum Spin and Angular Momentum",
+         "description": "Exploring Quantum Spin, Orbital Angular Momentum, and the Relationship between Spin and Orbital Angular Momentum"
+      },
+      {
+         "chapter_number": 5,
+         "title": "Quantum Tunneling and Scattering",
+         "description": "Understanding Quantum Tunneling, Scattering Cross-Section, and its Applications"
+      },
+      {
+         "chapter_number": 6,
+         "title": "Quantum Harmonic Oscillator",
+         "description": "Exploring the Quantum Harmonic Oscillator, Energy Eigenvalues, and Eigenfunctions"
+      },
+      {
+         "chapter_number": 7,
+         "title": "Quantum Entanglement and Teleportation",
+         "description": "Understanding Entanglement, Bell's Theorem, and Quantum Teleportation"
+      },
+      {
+         "chapter_number": 8,
+         "title": "Quantum Computing and Quantum Information",
+         "description": "Exploring Quantum Computing, Quantum bits (Qubits), and Quantum Information Processing"
+      }
+   ]
+}
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: {
+  "topic": "Quantum Physics for Grade 8",
+   "chapters": [
+      {
+         "chapter_number": 1,
+         "title": "Introduction to Quantum Physics",
+         "description": "Understanding the basics of quantum physics, its importance, and the principles."
+      },
+      {
+         "chapter_number": 2,
+         "title": "Wave-Particle Duality",
+         "description": "Exploring the concept of wave-particle duality, its examples and significance."
+      },
+      {
+         "chapter_number": 3,
+         "title": "Quantum Superposition",
+         "description": "Understanding the concept of superposition, its real-life examples, and the math behind it."
+      },
+      {
+         "chapter_number": 4,
+         "title": "Quantum Tunneling",
+         "description": "Explaining the concept of quantum tunneling, its importance, and real-world applications."
+      },
+      {
+         "chapter_number": 5,
+         "title": "Schrödinger's Equation",
+         "description": "Understanding the concept of Schrödinger's equation, its math behind it, and real-life applications."
+      },
+      {
+         "chapter_number": 6,
+         "title": "Quantum Entanglement",
+         "description": "Exploring the concept of quantum entanglement, its significance, and real-world applications."
+      },
+      {
+         "chapter_number": 7,
+         "title": "Quantum Computing Basics",
+         "description": "Understanding the basic principles of quantum computing, its advantages, and future prospects."
+      }
+   ]
+}
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: {
+  "topic": "Quantum Physics for Grade 8",
+   "chapters": [
+      {
+         "chapter_number": 1,
+         "title": "Introduction to Quantum Physics",
+         "description": "Discover the basics of quantum physics, including wave-particle duality, the Heisenberg Uncertainty Principle, and the concept of superposition."
+      },
+      {
+         "chapter_number": 2,
+         "title": "Matter in the Quantum World",
+         "description": "Explore the nature of atoms and molecules at the quantum level, including orbital configuration and electron spin."
+      },
+      {
+         "chapter_number": 3,
+         "title": "Quantum Tunneling and Waves",
+         "description": "Learn about quantum tunneling and waves, including how particles can tunnel through barriers and how waves interact with particles."
+      },
+      {
+         "chapter_number": 4,
+         "title": "Schrödinger's Equation and Quantum Systems",
+         "description": "Understand the basics of Schrödinger's equation and how it's used to describe quantum systems, including particles in a 1D box."
+      },
+      {
+         "chapter_number": 5,
+         "title": "Quantum Entanglement and Spin",
+         "description": "Explore the concept of quantum entanglement and spin, including its applications in quantum computing and cryptography."
+      },
+      {
+         "chapter_number": 6,
+         "title": "Experiments and Real-World Applications",
+         "description": "Learn about real-world experiments and applications that demonstrate quantum physics concepts, including particle accelerators and quantum computing."
+      }
+   ]
+}
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: {
+  "topic": "Quantum Physics for Grade 8",
+   "chapters": [
+      {
+         "chapter_number": 1,
+         "title": "Introduction to Quantum Physics",
+         "description": "Understanding the concept of wave-particle duality, uncertainty principle, and the role of quantum physics in everyday life."
+      },
+      {
+         "chapter_number": 2,
+         "title": "Quantum Mechanics Basics",
+         "description": "Exploring the principles of superposition, entanglement, and Schrödinger's equation, and how they apply to simple quantum systems."
+      },
+      {
+         "chapter_number": 3,
+         "title": "Light and Waves",
+         "description": "Understanding the behavior of light as a wave, including refraction, reflection, and diffraction, from a quantum perspective."
+      },
+      {
+         "chapter_number": 4,
+         "title": "Atomic Structure and Energy",
+         "description": "Exploring the arrangement of protons, neutrons, and electrons within an atom, and how energy is absorbed and emitted."
+      },
+      {
+         "chapter_number": 5,
+         "title": "Quantum Probability and Statistics",
+         "description": "Understanding the concept of probability in quantum physics, and how to apply statistical methods to analyze quantum data."
+      },
+      {
+         "chapter_number": 6,
+         "title": "Quantum Phenomena and Experiments",
+         "description": "Examining real-world quantum phenomena, including quantum computing, quantum cryptography, and the double-slit experiment."
+      }
+   ]
+}
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: {
+  "topic": "Quantum Physics for Grade 8",
+   "chapters": [
+      {
+         "chapter_number": 1,
+         "title": "Introduction to Quantum Physics",
+         "description": "Introduction to the basics of quantum physics, understanding wave-particle duality, and the principles of superposition and entanglement."
+      },
+      {
+         "chapter_number": 2,
+         "title": "Waves and Particles",
+         "description": "Understanding the difference between wave and particle behavior, properties of light as a wave and particle, and Schrödinger's cat paradox."
+      },
+      {
+         "chapter_number": 3,
+         "title": "Superposition, Entanglement, and Uncertainty",
+         "description": "Exploring superposition, entanglement, and the Heisenberg uncertainty principle, and understanding how they relate to the behavior of particles at the quantum level."
+      },
+      {
+         "chapter_number": 4,
+         "title": "Quantum Mechanics and Atoms",
+         "description": "Learning about the quantum mechanics of atoms, electron configuration, and atomic energy levels, and understanding how they relate to the periodic table."
+      },
+      {
+         "chapter_number": 5,
+         "title": "Quantum Phenomena and Applications",
+         "description": "Exploring some of the strange phenomena that occur at the quantum level, such as quantum tunneling and quantum computing, and learning about their applications in real-world technology."
+      },
+      {
+         "chapter_number": 6,
+         "title": "Experiments and Simulations",
+         "description": "Performing experiments and simulations to understand and demonstrate quantum physics concepts, such as double-slit experiments and quantum eraser experiments."
+      },
+      {
+         "chapter_number": 7,
+         "title": "Real-World Applications of Quantum Physics",
+         "description": "Exploring the many ways that quantum physics affects our daily lives, from lasers and LEDs to MRI machines and nuclear reactors."
+      },
+      {
+         "chapter_number": 8,
+         "title": "Conclusion and Review",
+         "description": "Reviewing key concepts from the course and exploring the potential for quantum physics to shape our future."
+      }
+   ]
+}
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: {
+  "topic": "Quantum Physics for Grade 8",
+   "chapters": [
+      {
+         "chapter_number": 1,
+         "title": "Introduction to Quantum Physics",
+         "description": "Understanding the fundamentals of quantum physics, including its definition, history, and significance."
+      },
+      {
+         "chapter_number": 2,
+         "title": "Wave-Particle Duality",
+         "description": "Exploring the concept of wave-particle duality, including the behavior of light and matter at the quantum level."
+      },
+      {
+         "chapter_number": 3,
+         "title": "The Schrödinger Equation",
+         "description": "Introducing the Schrödinger equation and its role in describing quantum systems, including solving simple equations."
+      },
+      {
+         "chapter_number": 4,
+         "title": "Quantum Superposition and Entanglement",
+         "description": "Understanding the principles of quantum superposition and entanglement, including real-world applications."
+      },
+      {
+         "chapter_number": 5,
+         "title": "Quantum Probability and Uncertainty",
+         "description": "Exploring the concept of quantum probability and uncertainty, including the Heisenberg Uncertainty Principle."
+      },
+      {
+         "chapter_number": 6,
+         "title": "Quantum Physics in Everyday Life",
+         "description": "Examining the applications of quantum physics in our daily lives, including electronics, materials science, and medicine."
+      },
+      {
+         "chapter_number": 7,
+         "title": "Quantum Physics and its History",
+         "description": "Delving into the history of quantum physics, including key discoveries and the contributions of pioneers in the field."
+      },
+      {
+         "chapter_number": 8,
+         "title": "Quantum Physics Experiments and Simulations",
+         "description": "Conducting experiments and simulations to demonstrate quantum physics concepts, including hands-on activities and data analysis."
+      }
+   ]
+}
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: {
+  "topic": "Quantum Physics",
+   "chapters": [
+      {
+         "chapter_number": 1,
+         "title": "Introduction to Quantum Physics",
+         "description": "Defining Quantum Physics, Key Concepts, and Branches of Study"
+      },
+      {
+         "chapter_number": 2,
+         "title": "Wave-Particle Duality",
+         "description": "Understanding Wave and Particle Behavior of Subatomic Particles"
+      },
+      {
+         "chapter_number": 3,
+         "title": "Superposition and Entanglement",
+         "description": "Exploring Quantum States, Superposition, and Entanglement Principles"
+      },
+      {
+         "chapter_number": 4,
+         "title": "Schrödinger Equation",
+         "description": "Introducing the Schrödinger Equation and Basic Applications"
+      },
+      {
+         "chapter_number": 5,
+         "title": "Heisenberg Uncertainty Principle",
+         "description": "Understanding the Limitations of Measuring Quantum Properties"
+      },
+      {
+         "chapter_number": 6,
+         "title": "Quantum Tunneling",
+         "description": "Exploring the Phenomenon of Quantum Tunneling and Its Applications"
+      },
+      {
+         "chapter_number": 7,
+         "title": "Quantum Computing Basics",
+         "description": "Introduction to Quantum Bits, Quantum Gates, and Quantum Algorithms"
+      },
+      {
+         "chapter_number": 8,
+         "title": "Quantum Physics Experiments",
+         "description": "Analyzing Real-World Experiments Demonstrating Quantum Principles and Applications"
+      },
+      {
+         "chapter_number": 9,
+         "title": "Quantum Physics Applications",
+         "description": "Examining Practical Applications of Quantum Physics in Daily Life"
+      },
+      {
+         "chapter_number": 10,
+         "title": "Career Opportunities in Quantum Physics",
+         "description": "Exploring Career Paths and Professional Opportunities in Quantum Physics Research and Development"
+      }
+   ]
+}
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: {
+  "topic": "Quantum Physics for Grade 8",
+   "chapters": [
+      {
+         "chapter_number": 1,
+         "title": "Introduction to Quantum Physics",
+         "description": "Understanding the basics of quantum physics and its significance in our lives."
+      },
+      {
+         "chapter_number": 2,
+         "title": "Wave-Particle Duality and Quantum Behavior",
+         "description": "Exploring the dual nature of particles and waves in quantum physics."
+      },
+      {
+         "chapter_number": 3,
+         "title": "Quantum Mechanics and the Uncertainty Principle",
+         "description": "Understanding the fundamental principles of quantum mechanics and the uncertainty principle."
+      },
+      {
+         "chapter_number": 4,
+         "title": "Quantum Entanglement and Superposition",
+         "description": "Exploring the concept of quantum entanglement and superposition."
+      },
+      {
+         "chapter_number": 5,
+         "title": "Quantum Computing and Cryptography",
+         "description": "Understanding the applications of quantum physics in computing and cryptography."
+      },
+      {
+         "chapter_number": 6,
+         "title": "Real-Life Applications of Quantum Physics",
+         "description": "Discovering the practical applications of quantum physics in everyday life."
+      },
+      {
+         "chapter_number": 7,
+         "title": "Experiments and Practical Applications",
+         "description": "Conducting experiments and exploring practical applications of quantum physics concepts."
+      },
+      {
+         "chapter_number": 8,
+         "title": "Case Studies and Project Work",
+         "description": "Analyzing real-world case studies and working on projects that apply quantum physics concepts."
+      }
+   ]
+}
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: {
+  "topic": "Quantum Physics - Grade 8",
+   "chapters": [
+      {
+         "chapter_number": 1,
+         "title": "Introduction to Quantum World",
+         "description": "Understanding the principles of quantum physics and its importance in modern science"
+      },
+      {
+         "chapter_number": 2,
+         "title": "Wave-Particle Duality",
+         "description": "Exploring the dual nature of light and matter, understanding wave-particle duality"
+      },
+      {
+         "chapter_number": 3,
+         "title": "Uncertainty Principle",
+         "description": "Understanding the limits of measurement and the concept of uncertainty principle"
+      },
+      {
+         "chapter_number": 4,
+         "title": "Superposition and Entanglement",
+         "description": "Understanding superposition, entanglement, and its implications for quantum systems"
+      },
+      {
+         "chapter_number": 5,
+         "title": "Quantum Tunneling and Forces",
+         "description": "Exploring the concept of quantum tunneling, electric and magnetic forces at the quantum level"
+      },
+      {
+         "chapter_number": 6,
+         "title": "Quantum Computing and Cryptography",
+         "description": "Introduction to quantum computing and its applications, including cryptography and coding"
+      },
+      {
+         "chapter_number": 7,
+         "title": "Practical Applications of Quantum Physics",
+         "description": "Understanding the impact of quantum physics on technology, medicine, and everyday life"
+      },
+      {
+         "chapter_number": 8,
+         "title": "Quantum Physics Lab Experiments",
+         "description": "Guided lab experiments to demonstrate quantum physics concepts in practical situations"
+      }
+   ]
+}
+DEBUG: Generating roadmap for Quantum Physics
+DEBUG: Roadmap response: {
+  "topic": "Quantum Physics",
+   "chapters": [
+      {
+         "chapter_number": 1,
+         "title": "Introduction to Quantum Physics",
+         "description": "Understanding the basics of quantum physics, its history and significance in modern science."
+      },
+      {
+         "chapter_number": 2,
+         "title": "Wave-Particle Duality",
+         "description": "Exploring the properties of light and matter, and understanding how both waves and particles can exist at the same time."
+      },
+      {
+         "chapter_number": 3,
+         "title": "Schrödinger's Equation",
+         "description": "Learning about the mathematical tool used to describe the quantum state of a system and predicting future states."
+      },
+      {
+         "chapter_number": 4,
+         "title": "Quantum Superposition",
+         "description": "Understanding how a quantum system can exist in multiple states simultaneously and how this property is used in quantum computing."
+      },
+      {
+         "chapter_number": 5,
+         "title": "Entanglement",
+         "description": "Exploring the phenomenon of entanglement and how it is used to connect two or more particles in a way that cannot be explained by classical physics."
+      },
+      {
+         "chapter_number": 6,
+         "title": "Probability in Quantum Physics",
+         "description": "Understanding how probability is used to predict and describe the behavior of particles at the quantum level."
+      },
+      {
+         "chapter_number": 7,
+         "title": "Quantum Computing",
+         "description": "Exploring the basics of quantum computing and how it is different from classical computing, including an introduction to quantum gates."
+      },
+      {
+         "chapter_number": 8,
+         "title": "Experiments in Quantum Physics",
+         "description": "Learning about some of the key experiments that have helped shape our understanding of quantum physics, such as the double-slit experiment."
+      }
+   ]
+}
